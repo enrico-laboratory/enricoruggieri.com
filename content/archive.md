@@ -1,6 +1,6 @@
 ---
-title: "Archive"
+title: "Concerts"
 layout: "archives"
 url: "/archives/"
-summary: archives
+summary: concerts
 ---
