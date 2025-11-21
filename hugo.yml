@@ -4,6 +4,9 @@ title:  'Enrico Ruggieri Conductor'
 theme:  ["papermode"]
 buildFuture: true
 mainsections: ["posts"]
+caches:
+  images:
+    dir: :cacheDir/images
 
 languages:
   en:
