@@ -54,9 +54,9 @@ params:
   images: ["images/papermod-cover.png"]
 
   profileMode:
-    enabled: false
+    enabled: true
     title: "Enrico Ruggieri"
-    imageUrl: "img_front.png"
+    imageUrl: "images/img_home.jpg"
     imageTitle: image
     # imageWidth: 120
     # imageHeight: 120
