@@ -19,7 +19,7 @@ disableShare: true
 ![image](poster.png)
 **05 November 2017, 16:00**
 
-Oud-Katholieke Kerk - *  Amsterdam*
+Oud-Katholieke Kerk - * * *Amsterdam*
 
 
 

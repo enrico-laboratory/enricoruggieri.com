@@ -19,7 +19,7 @@ disableShare: true
 ![image](poster.png)
 **30 November 2019, 16:00**
 
-Oud-Katholieke Kerk - *Juffrouw Idastraaat 7 Den Haag*
+Oud-Katholieke Kerk - *Juffrouw Idastraaat 7* *Den Haag*
 
 
 

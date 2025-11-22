@@ -19,12 +19,12 @@ disableShare: true
 ![image](poster.png)
 **08 June 2019, 16:00**
 
-Oud-Katholieke Kerk - *  Amsterdam*
+Oud-Katholieke Kerk - * * *Amsterdam*
 
 
 **15 June 2029, 16:00**
 
-Oud-Katholieke Kerk - *Kinderhuissingel 76 Haarlem*
+Oud-Katholieke Kerk - *Kinderhuissingel 76* *Haarlem*
 
 
 

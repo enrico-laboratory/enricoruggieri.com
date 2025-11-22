@@ -19,7 +19,7 @@ disableShare: true
 ![image](poster.png)
 **17 November 2024, 15:00**
 
-Andreaskerk - *Heer Vrankestraat 51, 3036 LB Rotterdam*
+Andreaskerk - *Heer Vrankestraat 51, 3036 LB* *Rotterdam*
 
 
 

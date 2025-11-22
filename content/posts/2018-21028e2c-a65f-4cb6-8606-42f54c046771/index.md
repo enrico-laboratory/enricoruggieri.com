@@ -19,12 +19,12 @@ disableShare: true
 ![image](poster.png)
 **10 February 2018, 15:30**
 
-Waalse Kerk - *Noordeinde 25 Den Haag*
+Waalse Kerk - *Noordeinde 25* *Den Haag*
 
 
 **11 February 2018, 15:30**
 
-Waalse Kerk - *Noordeinde 25 Den Haag*
+Waalse Kerk - *Noordeinde 25* *Den Haag*
 
 
 

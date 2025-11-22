@@ -18,7 +18,7 @@ disableShare: true
 ---
 **07 October 2023, 10:00**
 
-Fridtjof Nansen Primary School - *Nansenplaats 4, 3069 CV Rotterdam*
+Fridtjof Nansen Primary School - *Nansenplaats 4, 3069 CV* *Rotterdam*
 
 
 

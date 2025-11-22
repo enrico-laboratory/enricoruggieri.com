@@ -21,12 +21,12 @@ disableShare: true
 
 **28 February 2026, 15:00**
 
-Paleiskerk - *Paleisstraat 8, 2514 JA Den Haag*
+Paleiskerk - *Paleisstraat 8, 2514 JA* *Den Haag*
 
 
 **01 March 2026, 15:00**
 
-Paleiskerk - *Paleisstraat 8, 2514 JA Den Haag*
+Paleiskerk - *Paleisstraat 8, 2514 JA* *Den Haag*
 
 
 

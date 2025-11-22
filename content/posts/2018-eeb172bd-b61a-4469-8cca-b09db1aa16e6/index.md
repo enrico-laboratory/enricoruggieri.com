@@ -19,12 +19,12 @@ disableShare: true
 ![image](poster.png)
 **20 November 2018, 20:15**
 
-Sint Willibrordkerk - *Minrebroederstraat 21 Utrecht*
+Sint Willibrordkerk - *Minrebroederstraat 21* *Utrecht*
 
 
 **10 November 2018, 16:00**
 
-Oud-Katholieke Kerk - *  Amsterdam*
+Oud-Katholieke Kerk - * * *Amsterdam*
 
 
 

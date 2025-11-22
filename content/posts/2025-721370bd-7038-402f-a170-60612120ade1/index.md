@@ -19,12 +19,12 @@ disableShare: true
 ![image](poster.png)
 **15 February 2025, 15:00**
 
-Paleiskerk - *Paleisstraat 8, 2514 JA Den Haag*
+Paleiskerk - *Paleisstraat 8, 2514 JA* *Den Haag*
 
 
 **16 February 2025, 15:00**
 
-Paleiskerk - *Paleisstraat 8, 2514 JA Den Haag*
+Paleiskerk - *Paleisstraat 8, 2514 JA* *Den Haag*
 
 
 

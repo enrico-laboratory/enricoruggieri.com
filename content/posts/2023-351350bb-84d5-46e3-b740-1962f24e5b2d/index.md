@@ -19,12 +19,12 @@ disableShare: true
 ![image](poster.png)
 **11 November 2023, 15:00**
 
-Noorderkerk  - *Schuytstraat 9, 2517 XB Den Haag*
+Noorderkerk  - *Schuytstraat 9, 2517 XB* *Den Haag*
 
 
 **12 November 2023, 15:00**
 
-Paleiskerk - *Paleisstraat 8, 2514 JA Den Haag*
+Paleiskerk - *Paleisstraat 8, 2514 JA* *Den Haag*
 
 
 

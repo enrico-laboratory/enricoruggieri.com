@@ -19,12 +19,12 @@ disableShare: true
 ![image](poster.png)
 **12 November 2022, 15:00**
 
-Paleiskerk - *Paleisstraat 8, 2514 JA Den Haag*
+Paleiskerk - *Paleisstraat 8, 2514 JA* *Den Haag*
 
 
 **13 November 2022, 15:00**
 
-Paleiskerk - *Paleisstraat 8, 2514 JA Den Haag*
+Paleiskerk - *Paleisstraat 8, 2514 JA* *Den Haag*
 
 
 

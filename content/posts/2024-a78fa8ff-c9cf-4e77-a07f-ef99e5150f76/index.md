@@ -18,7 +18,7 @@ disableShare: true
 ---
 **11 February 2024, 16:00**
 
-het Witte Kerkje Maassluis - *Constantijn Huygensstraat 1, 3141 TA Maassluis*
+het Witte Kerkje Maassluis - *Constantijn Huygensstraat 1, 3141 TA* *Maassluis*
 
 
 

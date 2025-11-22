@@ -18,12 +18,12 @@ disableShare: true
 ---
 **12 April 2025, 16:00**
 
-Oud-Katholieke Kerk - *  Amsterdam*
+Oud-Katholieke Kerk - * * *Amsterdam*
 
 
 **18 April 2025, 16:00**
 
-Willem de Zwijgerkerk - *Olympiaweg 14 Amsterdam*
+Willem de Zwijgerkerk - *Olympiaweg 14* *Amsterdam*
 
 
 

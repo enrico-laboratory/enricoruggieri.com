@@ -19,12 +19,12 @@ disableShare: true
 ![image](poster.png)
 **25 May 2024, 15:00**
 
-Paleiskerk - *Paleisstraat 8, 2514 JA Den Haag*
+Paleiskerk - *Paleisstraat 8, 2514 JA* *Den Haag*
 
 
 **26 May 2024, 15:00**
 
-Paleiskerk - *Paleisstraat 8, 2514 JA Den Haag*
+Paleiskerk - *Paleisstraat 8, 2514 JA* *Den Haag*
 
 
 

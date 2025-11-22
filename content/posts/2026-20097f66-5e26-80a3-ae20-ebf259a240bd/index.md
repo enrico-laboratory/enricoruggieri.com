@@ -18,12 +18,12 @@ disableShare: true
 ---
 **28 March 2026, 16:00**
 
-Oud-Katholieke Kerk - *  Amsterdam*
+Oud-Katholieke Kerk - * * *Amsterdam*
 
 
 **03 April 2026, 16:00**
 
-Willem de Zwijgerkerk - *Olympiaweg 14 Amsterdam*
+Willem de Zwijgerkerk - *Olympiaweg 14* *Amsterdam*
 
 
 

@@ -19,12 +19,12 @@ disableShare: true
 ![image](poster.png)
 **29 September 2019, 15:00**
 
-Waalse Kerk - *Noordeinde 25 Den Haag*
+Waalse Kerk - *Noordeinde 25* *Den Haag*
 
 
 **28 September 2019, 15:00**
 
-Waalse Kerk - *Noordeinde 25 Den Haag*
+Waalse Kerk - *Noordeinde 25* *Den Haag*
 
 
 

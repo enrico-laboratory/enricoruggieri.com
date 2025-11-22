@@ -18,7 +18,7 @@ disableShare: true
 ---
 **23 June 2024, 10:00**
 
-Barthkapel - *Brouwersgracht 2K, 2512 ER Den Haag*
+Barthkapel - *Brouwersgracht 2K, 2512 ER* *Den Haag*
 
 
 

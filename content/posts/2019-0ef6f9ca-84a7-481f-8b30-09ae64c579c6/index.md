@@ -19,7 +19,7 @@ disableShare: true
 ![image](poster.png)
 **24 November 2019, 15:00**
 
-Dorpskerk - *Plein 3 Wassenaar*
+Dorpskerk - *Plein 3* *Wassenaar*
 
 
 

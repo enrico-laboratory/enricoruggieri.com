@@ -19,12 +19,12 @@ disableShare: true
 ![image](poster.png)
 **24 June 2022, 19:00**
 
-Cafe Loft - *Pomonaplein 49A, 2564 XS  Den Haag*
+Cafe Loft - *Pomonaplein 49A, 2564 XS * *Den Haag*
 
 
 **25 June 2022, 15:00**
 
-Stadsklooster - *Westeinde 101, 2512 GW Den Haag*
+Stadsklooster - *Westeinde 101, 2512 GW* *Den Haag*
 
 
 

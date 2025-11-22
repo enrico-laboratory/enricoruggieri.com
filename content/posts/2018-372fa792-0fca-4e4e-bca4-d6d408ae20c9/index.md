@@ -19,7 +19,7 @@ disableShare: true
 ![image](poster.png)
 **16 December 2018, 15:30**
 
-Paleiskerk - *Paleisstraat 8, 2514 JA Den Haag*
+Paleiskerk - *Paleisstraat 8, 2514 JA* *Den Haag*
 
 
 

@@ -19,12 +19,12 @@ disableShare: true
 ![image](poster.png)
 **14 September 2019, 16:00**
 
-Oud-Katholieke Kerk - *  Amsterdam*
+Oud-Katholieke Kerk - * * *Amsterdam*
 
 
 **15 September 2019, 16:00**
 
-Willem de Zwijgerkerk - *Olympiaweg 14 Amsterdam*
+Willem de Zwijgerkerk - *Olympiaweg 14* *Amsterdam*
 
 
 

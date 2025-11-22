@@ -19,7 +19,7 @@ disableShare: true
 ![image](poster.png)
 **21 March 2019, 20:15**
 
-St. John & St. Philip (Anglican Church) - *Ary van der Spuyweg 1, 2585 HA Den Haag Den Haag*
+St. John & St. Philip (Anglican Church) - *Ary van der Spuyweg 1, 2585 HA Den Haag* *Den Haag*
 
 
 
