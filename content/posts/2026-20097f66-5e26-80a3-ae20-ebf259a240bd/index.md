@@ -18,7 +18,7 @@ disableShare: true
 ---
 **28 March 2026, 16:00**
 
-Oud-Katholieke Kerk - * * *Amsterdam*
+Schellingwouderkerk - *Wijkergouw 6, 1023 NX * *Amsterdam*
 
 
 **03 April 2026, 16:00**
